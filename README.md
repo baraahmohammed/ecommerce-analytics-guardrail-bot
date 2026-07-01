@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Analytics & Guardrail Chatbot
+#  E-Commerce Analytics & Guardrail Chatbot
 
 An enterprise-grade, production-ready intelligent analytics assistant powered by advanced language models, structured data processing layers, and robust guardrails to prevent hallucination and secure data insights. Built with a sleek **Streamlit** user interface.
 
