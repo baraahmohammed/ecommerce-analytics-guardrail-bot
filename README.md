@@ -1,3 +1,5 @@
+
+
 #  E-Commerce Analytics & Guardrail Chatbot
 
 An enterprise-grade, production-ready intelligent analytics assistant powered by advanced language models, structured data processing layers, and robust guardrails to prevent hallucination and secure data insights. Built with a sleek **Streamlit** user interface.
@@ -7,9 +9,7 @@ An enterprise-grade, production-ready intelligent analytics assistant powered by
 ##  Project Demo
 Here is a complete walkthrough and demonstration of the chatbot in action:
 
-<video src="20260701-1428-25.1397721.mp4" width="100%" controls>
-  Your browser does not support the video tag. You can view the video file directly in the repository.
-</video>
+> 📌 [Click here to view the demo video directly in the repository](./20260701-1428-25.1397721.mp4)
 
 ---
 
